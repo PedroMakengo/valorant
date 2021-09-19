@@ -204,6 +204,7 @@ main header .container h1 {
 
   .slider-show .item .name {
     padding: 1rem;
+    display: block;
   }
 
   .slider-show .item .name span {
